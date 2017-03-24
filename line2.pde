@@ -1,4 +1,4 @@
-ddddddvoid setup() {
+void setup() {
   size(600, 600);
   background(175, 182, 255);
   
